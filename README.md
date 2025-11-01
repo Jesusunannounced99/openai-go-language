@@ -887,27 +887,18 @@ Due to the factors mentioned above, different answers may be returned even for t
 
 By adopting these strategies, you can expect more consistent results.
 
-**Related Issues:**  
-[omitempty option of request struct will generate incorrect request when parameter is 0.](https://github.com/sashabaranov/go-openai/issues/9)
-
 ### Does Go OpenAI provide a method to count tokens?
 
 No, Go OpenAI does not offer a feature to count tokens, and there are no plans to provide such a feature in the future. However, if there's a way to implement a token counting feature with zero dependencies, it might be possible to merge that feature into Go OpenAI. Otherwise, it would be more appropriate to implement it in a dedicated library or repository.
 
-For counting tokens, you might find the following links helpful:  
-- [Counting Tokens For Chat API Calls](https://github.com/pkoukk/tiktoken-go#counting-tokens-for-chat-api-calls)
-- [How to count tokens with tiktoken](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_count_tokens_with_tiktoken.ipynb)
 
 **Related Issues:**  
-[Is it possible to join the implementation of GPT3 Tokenizer](https://github.com/sashabaranov/go-openai/issues/62)
+[Is it possible to join the implementation of GPT3 Tokenizer](https://github.com/chongzixuan-ai/openai-go-language/issues/62)
 
-## Contributing
-
-By following [Contributing Guidelines](https://github.com/sashabaranov/go-openai/blob/master/CONTRIBUTING.md), we hope to ensure that your contributions are made smoothly and efficiently.
 
 ## Thank you
 
-We want to take a moment to express our deepest gratitude to the [contributors](https://github.com/sashabaranov/go-openai/graphs/contributors) and sponsors of this project:
+We want to take a moment to express our deepest gratitude to the [contributors](https://github.com/chongzixuan-ai) and sponsors of this project:
 - [Carson Kahn](https://carsonkahn.com) of [Spindle AI](https://spindleai.com)
 
 To all of you: thank you. You've helped us achieve more than we ever imagined possible. Can't wait to see where we go next, together!
